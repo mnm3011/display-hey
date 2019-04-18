@@ -1,2 +1,8 @@
-# prj1
-learning
+class Display
+
+ {
+   public static void main(String args[])
+    {
+      System.out.println(" hey");
+    }
+ }
